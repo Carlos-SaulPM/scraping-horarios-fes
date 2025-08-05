@@ -1,0 +1,12 @@
+{
+  "name": "web_scraping",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "playwright": "^1.53.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

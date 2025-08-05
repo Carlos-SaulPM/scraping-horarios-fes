@@ -1,0 +1,5011 @@
+{
+  "1007": [
+    {
+      "profesor": "ORDOÑEZ ROSALES MARTIN",
+      "clave": "0013",
+      "materia": "TEMAS ESPECIALES DE BASES DE DATOS",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "AVILA GARCIA JOSE ANTONIO",
+      "clave": "0171",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 2",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "LOZANO MENDEZ EFREN",
+      "clave": "0303",
+      "materia": "INTERNET DE LAS COSAS",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:00-13:00",
+        "MA": "",
+        "MI": "11:00-13:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "VEGA MUNGUIA ELIO",
+      "clave": "0308",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 6",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "PEREZ SANCHEZ HIRAM EMMANUEL",
+      "clave": "0310",
+      "materia": "TEMAS ESPECIALES DE PROGRAMACION 2",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "07:00-08:30",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PEREZ VALDES JOEL ALFREDO",
+      "clave": "0314",
+      "materia": "VINCULACION EMPRESARIAL",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    },
+    {
+      "profesor": "FLORES DIAZ IMELDA DE LA LUZ",
+      "clave": "1003",
+      "materia": "PROYECTO ESCUELA-INDUSTRIA",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "ZUÑIGA VILLEGAS BENITO",
+      "clave": "1627",
+      "materia": "INSTRUMENTACION Y CONTROL",
+      "grupo": "1007",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:15",
+        "MI": "",
+        "JU": "09:00-11:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "GONZALEZ AYALA LUIS ENRIQUE",
+      "clave": "1910",
+      "materia": "GRAFICACION POR COMPUTADORA",
+      "grupo": "1007",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-11:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    }
+  ],
+  "1008": [
+    {
+      "profesor": "FLORES DIAZ IMELDA DE LA LUZ",
+      "clave": "0167",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 1",
+      "grupo": "1008",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "VILLANUEVA ORTEGA JUAN ANTONIO",
+      "clave": "0175",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 3",
+      "grupo": "1008",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "SALDAÑA ALDANA HECTOR",
+      "clave": "0310",
+      "materia": "TEMAS ESPECIALES DE PROGRAMACION 2",
+      "grupo": "1008",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11204",
+      "cupo": "40"
+    },
+    {
+      "profesor": "FLORES DIAZ IMELDA DE LA LUZ",
+      "clave": "1003",
+      "materia": "PROYECTO ESCUELA-INDUSTRIA",
+      "grupo": "1008",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-09:50",
+        "MA": "",
+        "MI": "08:30-09:50",
+        "JU": "",
+        "VI": "08:30-09:50",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    }
+  ],
+  "1009": [
+    {
+      "profesor": "PEREZ VALDES JOEL ALFREDO",
+      "clave": "0018",
+      "materia": "SEMINARIO INGENIERIA EN COMPUTACION",
+      "grupo": "1009",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "SALGADO RODRIGUEZ JOSE FRANCISCO",
+      "clave": "0174",
+      "materia": "PROGRAMACION DE VIDEOJUEGOS 2",
+      "grupo": "1009",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "SALGADO RODRIGUEZ JOSE FRANCISCO",
+      "clave": "0308",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 6",
+      "grupo": "1009",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "MONDRAGON ESCOBAR ALFREDO",
+      "clave": "1003",
+      "materia": "PROYECTO ESCUELA-INDUSTRIA",
+      "grupo": "1009",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-12:50",
+        "MA": "",
+        "MI": "11:30-12:50",
+        "JU": "",
+        "VI": "11:30-12:50",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    },
+    {
+      "profesor": "GONZALEZ MAXINEZ DAVID JAIME",
+      "clave": "2128",
+      "materia": "ROBOTICA",
+      "grupo": "1009",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    }
+  ],
+  "1010": [
+    {
+      "profesor": "ALMANZAR VAZQUEZ MARIA GUADALUPE",
+      "clave": "0167",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 1",
+      "grupo": "1010",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-09:00",
+        "MA": "",
+        "MI": "07:00-09:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "SALGADO RODRIGUEZ JOSE FRANCISCO",
+      "clave": "0170",
+      "materia": "PROGRAMACION DE VIDEOJUEGOS 1",
+      "grupo": "1010",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-12:50",
+        "MA": "",
+        "MI": "11:30-12:50",
+        "JU": "",
+        "VI": "11:30-12:50",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VALENZUELA RAMOS JUAN GERMAN",
+      "clave": "0171",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 2",
+      "grupo": "1010",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:40-13:00",
+        "MA": "",
+        "MI": "11:40-13:00",
+        "JU": "",
+        "VI": "11:40-13:00",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "QUINTERO CERVANTES JOSE MANUEL",
+      "clave": "0312",
+      "materia": "TEMAS ESPECIALES DE REDES",
+      "grupo": "1010",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "09:00-11:00",
+        "MA": "",
+        "MI": "09:00-11:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11204",
+      "cupo": "40"
+    },
+    {
+      "profesor": "SALGADO RODRIGUEZ JOSE FRANCISCO",
+      "clave": "1910",
+      "materia": "GRAFICACION POR COMPUTADORA",
+      "grupo": "1010",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:20-09:40",
+        "MA": "",
+        "MI": "08:20-09:40",
+        "JU": "",
+        "VI": "08:20-09:40",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CASTRO DIAZ JOSE DANIEL",
+      "clave": "2128",
+      "materia": "ROBOTICA",
+      "grupo": "1010",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    }
+  ],
+  "1057": [
+    {
+      "profesor": "GERMAN ROSAS CESAR FRANCISCO",
+      "clave": "0013",
+      "materia": "TEMAS ESPECIALES DE BASES DE DATOS",
+      "grupo": "1057",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "11:00-15:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CANO SANTOS BERENICE",
+      "clave": "0018",
+      "materia": "SEMINARIO INGENIERIA EN COMPUTACION",
+      "grupo": "1057",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "18:40-20:00",
+        "MA": "",
+        "MI": "18:40-20:00",
+        "JU": "",
+        "VI": "18:40-20:00",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "VALENZUELA LOPEZ RODOLFO",
+      "clave": "0167",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 1",
+      "grupo": "1057",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:20",
+        "MA": "",
+        "MI": "19:00-20:20",
+        "JU": "",
+        "VI": "19:00-20:20",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "ESCONDRILLAS MAYA CARLOS",
+      "clave": "0176",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 4",
+      "grupo": "1057",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:30-21:30",
+        "MI": "",
+        "JU": "19:30-21:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    },
+    {
+      "profesor": "HERNANDEZ AUDELO LEOBARDO",
+      "clave": "0313",
+      "materia": "TEMAS ESPECIALES DE SEGURIDAD INFORM",
+      "grupo": "1057",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "COLUNGA VAZQUEZ MATILDE",
+      "clave": "1003",
+      "materia": "PROYECTO ESCUELA-INDUSTRIA",
+      "grupo": "1057",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "14:00-16:00",
+        "JU": "",
+        "VI": "14:00-16:00",
+        "SA": ""
+      },
+      "salon": "-",
+      "cupo": "0"
+    },
+    {
+      "profesor": "GONZALEZ PONCE ALEJANDRO RENE",
+      "clave": "1916",
+      "materia": "PROCESAMIENTO DIGIT.IMAGENES",
+      "grupo": "1057",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11205",
+      "cupo": "40"
+    }
+  ],
+  "1058": [
+    {
+      "profesor": "LOPEZ HERNANDEZ JORGE ARTURO",
+      "clave": "0008",
+      "materia": "ADMINISTRACION SISTEMAS MULTIUSUAR",
+      "grupo": "1058",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "17:00-21:00",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "0312",
+      "materia": "TEMAS ESPECIALES DE REDES",
+      "grupo": "1058",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:00-18:20",
+        "MA": "",
+        "MI": "17:00-18:20",
+        "JU": "",
+        "VI": "17:00-18:20",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    },
+    {
+      "profesor": "ROMERO UGALDE MARTIN MANUEL",
+      "clave": "2138",
+      "materia": "SISTEMAS EXPERTOS",
+      "grupo": "1058",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "12:40-14:00",
+        "MA": "",
+        "MI": "12:40-14:00",
+        "JU": "",
+        "VI": "12:40-14:00",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    }
+  ],
+  "1059": [
+    {
+      "profesor": "HERNANDEZ CERVANTES LILIANA",
+      "clave": "1910",
+      "materia": "GRAFICACION POR COMPUTADORA",
+      "grupo": "1059",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    }
+  ],
+  "1060": [
+    {
+      "profesor": "COVARRUBIAS RODRIGUEZ FERNANDO ROBERTO",
+      "clave": "1003",
+      "materia": "PROYECTO ESCUELA-INDUSTRIA",
+      "grupo": "1060",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:30-21:30",
+        "MA": "",
+        "MI": "19:30-21:30",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11204",
+      "cupo": "40"
+    }
+  ],
+  "1061": [
+    {
+      "profesor": "ALMANZAR VAZQUEZ MARIA GUADALUPE",
+      "clave": "0175",
+      "materia": "TEMAS ESPECIALES DE COMPUTACION 3",
+      "grupo": "1061",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "0312",
+      "materia": "TEMAS ESPECIALES DE REDES",
+      "grupo": "1061",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:00-21:20",
+        "MA": "",
+        "MI": "20:00-21:20",
+        "JU": "",
+        "VI": "20:00-21:20",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "RIVERO PICAZO MARIELA VIANEY",
+      "clave": "0314",
+      "materia": "VINCULACION EMPRESARIAL",
+      "grupo": "1061",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:00-19:00",
+        "MI": "",
+        "JU": "17:00-19:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "CRUZ ROSALES ERNESTO",
+      "clave": "1003",
+      "materia": "PROYECTO ESCUELA-INDUSTRIA",
+      "grupo": "1061",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "18:00-22:00",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    }
+  ],
+  "1062": [
+    {
+      "profesor": "GARCIA GUZMAN ENRIQUE",
+      "clave": "1627",
+      "materia": "INSTRUMENTACION Y CONTROL",
+      "grupo": "1062",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1107": [
+    {
+      "profesor": "MARTINEZ ROMERO JONATHAN",
+      "clave": "1108",
+      "materia": "GEOMETRIA ANALITICA",
+      "grupo": "1107",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-10:00",
+        "MA": "",
+        "MI": "08:30-10:00",
+        "JU": "",
+        "VI": "08:30-10:00",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VERDE CRUZ ABEL",
+      "clave": "1109",
+      "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+      "grupo": "1107",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "ORTIZ CORDERO GABRIEL",
+      "clave": "1110",
+      "materia": "ALGEBRA",
+      "grupo": "1107",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PEÑALOZA ROMERO ERNESTO",
+      "clave": "1111",
+      "materia": "COMPUTADORAS Y PROGRAMACION",
+      "grupo": "1107",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VELASCO AGUSTIN AARON",
+      "clave": "1112",
+      "materia": "INTROD. A LA INGENIER. COMPUTACION",
+      "grupo": "1107",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:30",
+        "MA": "",
+        "MI": "10:00-11:30",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    }
+  ],
+  "1108": [
+    {
+      "profesor": "VIEYRA REBOYO LUIS ARMANDO",
+      "clave": "1108",
+      "materia": "GEOMETRIA ANALITICA",
+      "grupo": "1108",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-10:00",
+        "MA": "",
+        "MI": "08:30-10:00",
+        "JU": "",
+        "VI": "08:30-10:00",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "GONZALEZ HERNANDEZ GERARDO",
+      "clave": "1109",
+      "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+      "grupo": "1108",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:30",
+        "MA": "",
+        "MI": "10:00-11:30",
+        "JU": "",
+        "VI": "10:00-11:30",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "HERNANDEZ LOPEZ SERGIO",
+      "clave": "1110",
+      "materia": "ALGEBRA",
+      "grupo": "1108",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "07:00-08:30",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "GASTALDI PEREZ JUAN",
+      "clave": "1111",
+      "materia": "COMPUTADORAS Y PROGRAMACION",
+      "grupo": "1108",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:15",
+        "MI": "",
+        "JU": "07:00-09:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "1112",
+      "materia": "INTROD. A LA INGENIER. COMPUTACION",
+      "grupo": "1108",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-13:00",
+        "MA": "",
+        "MI": "11:30-13:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    }
+  ],
+  "1109": [
+    {
+      "profesor": "PATIÑO RODRIGUEZ RAMON",
+      "clave": "1108",
+      "materia": "GEOMETRIA ANALITICA",
+      "grupo": "1109",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "RAMIREZ LAZOS ESTEBAN",
+      "clave": "1109",
+      "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+      "grupo": "1109",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-13:00",
+        "MA": "",
+        "MI": "11:30-13:00",
+        "JU": "",
+        "VI": "11:30-13:00",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "VIEYRA REBOYO LUIS ARMANDO",
+      "clave": "1110",
+      "materia": "ALGEBRA",
+      "grupo": "1109",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:30",
+        "MA": "",
+        "MI": "10:00-11:30",
+        "JU": "",
+        "VI": "10:00-11:30",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "HERNANDEZ CABRERA JESUS",
+      "clave": "1111",
+      "materia": "COMPUTADORAS Y PROGRAMACION",
+      "grupo": "1109",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "08:45-11:00",
+        "MI": "",
+        "JU": "08:45-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "ARELLANO OROZCO JUAN MANUEL",
+      "clave": "1112",
+      "materia": "INTROD. A LA INGENIER. COMPUTACION",
+      "grupo": "1109",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-08:30",
+        "MI": "",
+        "JU": "07:00-08:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    }
+  ],
+  "1157": [
+    {
+      "profesor": "GONZALEZ BETANCOURT RAFAEL",
+      "clave": "1108",
+      "materia": "GEOMETRIA ANALITICA",
+      "grupo": "1157",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:15",
+        "MI": "",
+        "JU": "18:00-20:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PELCASTRE RAMIREZ GLORIA SAMANTHA",
+      "clave": "1109",
+      "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+      "grupo": "1157",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "16:00-17:30",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "ORTIZ CORDERO GABRIEL",
+      "clave": "1110",
+      "materia": "ALGEBRA",
+      "grupo": "1157",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "SANCHEZ SANCHEZ VICTOR MANUEL",
+      "clave": "1111",
+      "materia": "COMPUTADORAS Y PROGRAMACION",
+      "grupo": "1157",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:45-18:00",
+        "MI": "",
+        "JU": "15:45-18:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PARRALES CASTAÑEDA CARLOS ALBERTO",
+      "clave": "1112",
+      "materia": "INTROD. A LA INGENIER. COMPUTACION",
+      "grupo": "1157",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "14:30-16:00",
+        "MA": "",
+        "MI": "14:30-16:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    }
+  ],
+  "1158": [
+    {
+      "profesor": "RODRIGUEZ GARCIA ARTURO",
+      "clave": "1108",
+      "materia": "GEOMETRIA ANALITICA",
+      "grupo": "1158",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "16:00-17:30",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "HERNANDEZ GALICIA SALOMON",
+      "clave": "1109",
+      "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+      "grupo": "1158",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:30-19:45",
+        "MI": "",
+        "JU": "17:30-19:45",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "RAMIREZ LAZOS ESTEBAN",
+      "clave": "1110",
+      "materia": "ALGEBRA",
+      "grupo": "1158",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:15",
+        "MI": "",
+        "JU": "13:00-15:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "1111",
+      "materia": "COMPUTADORAS Y PROGRAMACION",
+      "grupo": "1158",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:15-17:30",
+        "MI": "",
+        "JU": "15:15-17:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "GRADA HUERTA IVAN",
+      "clave": "1112",
+      "materia": "INTROD. A LA INGENIER. COMPUTACION",
+      "grupo": "1158",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "20:00-21:30",
+        "MI": "",
+        "JU": "20:00-21:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    }
+  ],
+  "1159": [
+    {
+      "profesor": "SOLIS ALCANTAR EVERARDO",
+      "clave": "1108",
+      "materia": "GEOMETRIA ANALITICA",
+      "grupo": "1159",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:30-19:00",
+        "MA": "",
+        "MI": "17:30-19:00",
+        "JU": "",
+        "VI": "17:30-19:00",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "RODRIGUEZ GARCIA ARTURO",
+      "clave": "1109",
+      "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+      "grupo": "1159",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:00-17:15",
+        "MI": "",
+        "JU": "15:00-17:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "ORTIZ CORDERO GABRIEL",
+      "clave": "1110",
+      "materia": "ALGEBRA",
+      "grupo": "1159",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-15:00",
+        "MA": "",
+        "MI": "13:00-15:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "RAMOS MARQUEZ JUAN CARLOS",
+      "clave": "1111",
+      "materia": "COMPUTADORAS Y PROGRAMACION",
+      "grupo": "1159",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:15-19:30",
+        "MI": "",
+        "JU": "17:15-19:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "PARRALES CASTAÑEDA CARLOS ALBERTO",
+      "clave": "1112",
+      "materia": "INTROD. A LA INGENIER. COMPUTACION",
+      "grupo": "1159",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    }
+  ],
+  "1207": [
+    {
+      "profesor": "PEREZ GUZMAN ALEJANDRO",
+      "clave": "0062",
+      "materia": "ALGEBRA LINEAL",
+      "grupo": "1207",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:45-13:00",
+        "MA": "",
+        "MI": "10:45-13:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "GONZALEZ HERNANDEZ GERARDO",
+      "clave": "0063",
+      "materia": "CALCULO VECTORIAL",
+      "grupo": "1207",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-10:00",
+        "MA": "",
+        "MI": "08:30-10:00",
+        "JU": "",
+        "VI": "08:30-10:00",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "1203",
+      "materia": "PROGRAMACION ORIENTADA A OBJETOS",
+      "grupo": "1207",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "08:45-11:00",
+        "MI": "",
+        "JU": "08:45-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "MONDRAGON ESCOBAR ALFREDO",
+      "clave": "1209",
+      "materia": "COMUNICACION",
+      "grupo": "1207",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "FERIA VICTORIA MARIA ANGELICA",
+      "clave": "1210",
+      "materia": "EMPRENDIMIENTO 1",
+      "grupo": "1207",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "PEREZ VALDES JOEL ALFREDO",
+      "clave": "1211",
+      "materia": "TALLER DE CREATIVIDAD E INNOVACION",
+      "grupo": "1207",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-08:30",
+        "MI": "",
+        "JU": "07:00-08:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    }
+  ],
+  "1208": [
+    {
+      "profesor": "FALCON ARELLANO BERENICE ITZEL",
+      "clave": "0062",
+      "materia": "ALGEBRA LINEAL",
+      "grupo": "1208",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-15:15",
+        "MA": "",
+        "MI": "13:00-15:15",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "GUTIERREZ CASTILLO ALMA ROSA",
+      "clave": "1209",
+      "materia": "COMUNICACION",
+      "grupo": "1208",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-09:50",
+        "MA": "",
+        "MI": "08:30-09:50",
+        "JU": "",
+        "VI": "08:30-09:50",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "ROMERO ANDALON JESUS ANGEL",
+      "clave": "1210",
+      "materia": "EMPRENDIMIENTO 1",
+      "grupo": "1208",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-09:00",
+        "MA": "",
+        "MI": "07:00-09:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    }
+  ],
+  "1257": [
+    {
+      "profesor": "SOLIS ALCANTAR EVERARDO",
+      "clave": "0062",
+      "materia": "ALGEBRA LINEAL",
+      "grupo": "1257",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "16:00-17:30",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "SANCHEZ MORALES VICTOR MANUEL",
+      "clave": "0063",
+      "materia": "CALCULO VECTORIAL",
+      "grupo": "1257",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:45-18:00",
+        "MI": "",
+        "JU": "15:45-18:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "CRUZ LUEVANO BLANCA ESTELA",
+      "clave": "1203",
+      "materia": "PROGRAMACION ORIENTADA A OBJETOS",
+      "grupo": "1257",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:50-21:50",
+        "MI": "",
+        "JU": "19:50-21:50",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "ISLAS HERNANDEZ CLARA YAHAIRA",
+      "clave": "1209",
+      "materia": "COMUNICACION",
+      "grupo": "1257",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "COLUNGA VAZQUEZ MATILDE",
+      "clave": "1210",
+      "materia": "EMPRENDIMIENTO 1",
+      "grupo": "1257",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:20",
+        "MA": "",
+        "MI": "19:00-20:20",
+        "JU": "",
+        "VI": "19:00-20:20",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "CHIAPA MONROY CUAUHTEMOC",
+      "clave": "1211",
+      "materia": "TALLER DE CREATIVIDAD E INNOVACION",
+      "grupo": "1257",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "16:00-17:30",
+        "MI": "",
+        "JU": "16:00-17:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    }
+  ],
+  "1258": [
+    {
+      "profesor": "SOLIS ALCANTAR EVERARDO",
+      "clave": "0062",
+      "materia": "ALGEBRA LINEAL",
+      "grupo": "1258",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:30",
+        "MA": "",
+        "MI": "19:00-20:30",
+        "JU": "",
+        "VI": "19:00-20:30",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "ALMANZAR VAZQUEZ MARIA GUADALUPE",
+      "clave": "1209",
+      "materia": "COMUNICACION",
+      "grupo": "1258",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "20:00-22:00",
+        "MI": "",
+        "JU": "20:00-22:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "ROMERO ANDALON JESUS ANGEL",
+      "clave": "1210",
+      "materia": "EMPRENDIMIENTO 1",
+      "grupo": "1258",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-18:00",
+        "MA": "",
+        "MI": "16:00-18:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "ABURTO CAMACHO BLANCA PAMELA",
+      "clave": "1211",
+      "materia": "TALLER DE CREATIVIDAD E INNOVACION",
+      "grupo": "1258",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:30-19:00",
+        "MA": "",
+        "MI": "17:30-19:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1307": [
+    {
+      "profesor": "HERNANDEZ LOPEZ SERGIO",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1307",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "SANCHEZ HERNANDEZ MIGUEL ANGEL",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1307",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:40-10:00",
+        "MA": "",
+        "MI": "08:40-10:00",
+        "JU": "",
+        "VI": "08:40-10:00",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "MARTINEZ ROMERO JONATHAN",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1307",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-13:00",
+        "MA": "",
+        "MI": "11:30-13:00",
+        "JU": "",
+        "VI": "11:30-13:00",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GONZALEZ HERNANDEZ GERARDO",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1307",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "07:00-08:30",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GARCIA VILLANUEVA MA. DEL PILAR",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1307",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    }
+  ],
+  "1308": [
+    {
+      "profesor": "SUAREZ HERRERA ALEJANDRO",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1308",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:15",
+        "MI": "",
+        "JU": "13:00-15:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "BLANCO BAUTISTA ROBERTO",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1308",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:30",
+        "MA": "",
+        "MI": "10:00-11:30",
+        "JU": "",
+        "VI": "10:00-11:30",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PEREZ GUZMAN ALEJANDRO",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1308",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-15:15",
+        "MA": "",
+        "MI": "13:00-15:15",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "BLANCO BAUTISTA ROBERTO",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1308",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "07:00-08:30",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "GARCIA VILLANUEVA MA. DEL PILAR",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1308",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:00-10:00",
+        "MA": "",
+        "MI": "08:00-10:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    }
+  ],
+  "1309": [
+    {
+      "profesor": "PICCINELLI BOCCHI GABRIELLA",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1309",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:30",
+        "MA": "",
+        "MI": "13:00-14:30",
+        "JU": "",
+        "VI": "13:00-14:30",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PEÑALOZA ROMERO ERNESTO",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1309",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "BLANCO BAUTISTA ROBERTO",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1309",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-13:00",
+        "MA": "",
+        "MI": "11:30-13:00",
+        "JU": "",
+        "VI": "11:30-13:00",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "MARTINEZ ROMERO JONATHAN",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1309",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:30",
+        "MA": "",
+        "MI": "10:00-11:30",
+        "JU": "",
+        "VI": "10:00-11:30",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "MONDRAGON ESCOBAR ALFREDO",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1309",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-09:50",
+        "MA": "",
+        "MI": "08:30-09:50",
+        "JU": "",
+        "VI": "08:30-09:50",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    }
+  ],
+  "1310": [
+    {
+      "profesor": "SUAREZ HERRERA ALEJANDRO",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1310",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "10:45-13:00",
+        "MI": "",
+        "JU": "10:45-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "BLANCO BAUTISTA ROBERTO",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1310",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-10:00",
+        "MA": "",
+        "MI": "08:30-10:00",
+        "JU": "",
+        "VI": "08:30-10:00",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "VIEYRA REBOYO LUIS ARMANDO",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1310",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "07:00-08:30",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "VERDE CRUZ ABEL",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1310",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:15",
+        "MI": "",
+        "JU": "13:00-15:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "MONDRAGON ESCOBAR ALFREDO",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1310",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    }
+  ],
+  "1311": [
+    {
+      "profesor": "VERDE CRUZ ABEL",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1311",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-10:00",
+        "MA": "",
+        "MI": "08:30-10:00",
+        "JU": "",
+        "VI": "08:30-10:00",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "GARCIA VILLANUEVA MA. DEL PILAR",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1311",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-12:00",
+        "MA": "",
+        "MI": "10:00-12:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    }
+  ],
+  "1357": [
+    {
+      "profesor": "SEGURA RAUDA MINERVA",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1357",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "16:00-17:30",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "CRUZ LUEVANO BLANCA ESTELA",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1357",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:45-19:45",
+        "MI": "",
+        "JU": "17:45-19:45",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "GONZALEZ BETANCOURT RAFAEL",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1357",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:30",
+        "MA": "",
+        "MI": "19:00-20:30",
+        "JU": "",
+        "VI": "19:00-20:30",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "JUAREZ PALMA JOSE GIL",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1357",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:15-17:30",
+        "MI": "",
+        "JU": "15:15-17:30",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GUTIERREZ CASTILLO ALMA ROSA",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1357",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:30-19:00",
+        "MA": "",
+        "MI": "17:30-19:00",
+        "JU": "",
+        "VI": "17:30-19:00",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    }
+  ],
+  "1358": [
+    {
+      "profesor": "ALVAREZ SORIANO MANUEL ALEJANDRO",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1358",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:30",
+        "MA": "",
+        "MI": "19:00-20:30",
+        "JU": "",
+        "VI": "19:00-20:30",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1358",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:00-19:00",
+        "MI": "",
+        "JU": "17:00-19:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "MORALES GONZALEZ JORGE CARLOS",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1358",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:30",
+        "MA": "",
+        "MI": "13:00-14:30",
+        "JU": "",
+        "VI": "13:00-14:30",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GONZALEZ BETANCOURT RAFAEL",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1358",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:30-19:00",
+        "MA": "",
+        "MI": "17:30-19:00",
+        "JU": "",
+        "VI": "17:30-19:00",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "COLUNGA VAZQUEZ MATILDE",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1358",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:20",
+        "MA": "",
+        "MI": "16:00-17:20",
+        "JU": "",
+        "VI": "16:00-17:20",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    }
+  ],
+  "1359": [
+    {
+      "profesor": "PEREZ GUZMAN ALEJANDRO",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1359",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "16:00-17:30",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "HERNANDEZ CABRERA JESUS",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1359",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "RAMIREZ LAZOS ESTEBAN",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1359",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:30",
+        "MA": "",
+        "MI": "13:00-14:30",
+        "JU": "",
+        "VI": "13:00-14:30",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "JUAREZ PALMA JOSE GIL",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1359",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:30-19:45",
+        "MI": "",
+        "JU": "17:30-19:45",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "COLUNGA VAZQUEZ MATILDE",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1359",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:30-18:50",
+        "MA": "",
+        "MI": "17:30-18:50",
+        "JU": "",
+        "VI": "17:30-18:50",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    }
+  ],
+  "1360": [
+    {
+      "profesor": "VERDE CRUZ ABEL",
+      "clave": "0071",
+      "materia": "ELECTRICIDAD Y MAGNETISMO (L)",
+      "grupo": "1360",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:45-19:45",
+        "MI": "",
+        "JU": "17:45-19:45",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "SANCHEZ SANCHEZ VICTOR MANUEL",
+      "clave": "0190",
+      "materia": "ESTRUCTURA DE DATOS",
+      "grupo": "1360",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "14:40-16:00",
+        "MA": "",
+        "MI": "14:40-16:00",
+        "JU": "",
+        "VI": "14:40-16:00",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GONZALEZ BETANCOURT RAFAEL",
+      "clave": "0480",
+      "materia": "METODOS NUMERICOS",
+      "grupo": "1360",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:30-22:00",
+        "MA": "",
+        "MI": "20:30-22:00",
+        "JU": "",
+        "VI": "20:30-22:00",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "RODRIGUEZ GARCIA ARTURO",
+      "clave": "1303",
+      "materia": "ECUACIONES DIFERENCIALES",
+      "grupo": "1360",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "12:45-15:00",
+        "MI": "",
+        "JU": "12:45-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    },
+    {
+      "profesor": "REYES TECONTERO NORMA",
+      "clave": "1311",
+      "materia": "EMPRENDIMIENTO 2",
+      "grupo": "1360",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:00-19:00",
+        "MA": "",
+        "MI": "17:00-19:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    }
+  ],
+  "1407": [
+    {
+      "profesor": "HERNANDEZ LOPEZ SERGIO",
+      "clave": "0712",
+      "materia": "PROBABILIDAD Y ESTADISTICA",
+      "grupo": "1407",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-10:00",
+        "MA": "",
+        "MI": "08:30-10:00",
+        "JU": "",
+        "VI": "08:30-10:00",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "ORDOÑEZ ROSALES MARTIN",
+      "clave": "1417",
+      "materia": "BASES DE DATOS 1",
+      "grupo": "1407",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-11:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GARCIA VILLANUEVA MA. DEL PILAR",
+      "clave": "1418",
+      "materia": "EMPRENDIMIENTO 3",
+      "grupo": "1407",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "ORTIZ CORDERO GABRIEL",
+      "clave": "1419",
+      "materia": "MATEMATICAS DISCRETAS",
+      "grupo": "1407",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:00-13:00",
+        "MA": "",
+        "MI": "11:00-13:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "ORTEGA NAVA CARLOS FERNANDO",
+      "clave": "1522",
+      "materia": "DISPOSITIVOS ELECTRONICOS (L)",
+      "grupo": "1407",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1408": [
+    {
+      "profesor": "TORRES TORRES FAUSTO",
+      "clave": "0712",
+      "materia": "PROBABILIDAD Y ESTADISTICA",
+      "grupo": "1408",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:15",
+        "MI": "",
+        "JU": "13:00-15:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1457": [
+    {
+      "profesor": "PELCASTRE RAMIREZ GLORIA SAMANTHA",
+      "clave": "0712",
+      "materia": "PROBABILIDAD Y ESTADISTICA",
+      "grupo": "1457",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:30-19:00",
+        "MA": "",
+        "MI": "17:30-19:00",
+        "JU": "",
+        "VI": "17:30-19:00",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "SOBERANES JAIME ROBERTO MISAEL",
+      "clave": "1417",
+      "materia": "BASES DE DATOS 1",
+      "grupo": "1457",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "20:00-22:00",
+        "MI": "",
+        "JU": "20:00-22:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CERVANTES PATIÑO MOISES",
+      "clave": "1418",
+      "materia": "EMPRENDIMIENTO 3",
+      "grupo": "1457",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:30-21:50",
+        "MA": "",
+        "MI": "20:30-21:50",
+        "JU": "",
+        "VI": "20:30-21:50",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "RODRIGUEZ GARCIA ARTURO",
+      "clave": "1419",
+      "materia": "MATEMATICAS DISCRETAS",
+      "grupo": "1457",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "14:30-16:00",
+        "MA": "",
+        "MI": "14:30-16:00",
+        "JU": "",
+        "VI": "14:30-16:00",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "LOPEZ CARRETO JUAN MANUEL",
+      "clave": "1522",
+      "materia": "DISPOSITIVOS ELECTRONICOS (L)",
+      "grupo": "1457",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:00-21:20",
+        "MA": "",
+        "MI": "20:00-21:20",
+        "JU": "",
+        "VI": "20:00-21:20",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    }
+  ],
+  "1507": [
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1507",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-12:50",
+        "MA": "",
+        "MI": "11:30-12:50",
+        "JU": "",
+        "VI": "11:30-12:50",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PEREZ MEDEL MARCELO",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1507",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-15:00",
+        "MA": "",
+        "MI": "13:00-15:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "REYES CRUZ ANA CLAUDIA",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1507",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1507",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:30",
+        "MA": "",
+        "MI": "10:00-11:30",
+        "JU": "",
+        "VI": "10:00-11:30",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "BERNAL DIAZ ARCELIA",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1507",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    }
+  ],
+  "1508": [
+    {
+      "profesor": "OLIVER MORALES CARLOS",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1508",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:40-10:00",
+        "MA": "",
+        "MI": "08:40-10:00",
+        "JU": "",
+        "VI": "08:40-10:00",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "OLIVER MORALES CARLOS",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1508",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "07:00-08:30",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "MONDRAGON ESCOBAR ALFREDO",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1508",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:20",
+        "MA": "",
+        "MI": "13:00-14:20",
+        "JU": "",
+        "VI": "13:00-14:20",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VELASCO AGUSTIN AARON",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1508",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "BERNAL DIAZ ARCELIA",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1508",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    }
+  ],
+  "1509": [
+    {
+      "profesor": "OLIVER MORALES CARLOS",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1509",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "SANCHEZ HERNANDEZ MIGUEL ANGEL",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1509",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:30-13:00",
+        "MA": "",
+        "MI": "11:30-13:00",
+        "JU": "",
+        "VI": "11:30-13:00",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GONZALEZ AYALA LUIS ENRIQUE",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1509",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "11:00-15:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "ORTIZ JIMENEZ MARIA ELENA",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1509",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "LOZANO MENDEZ EFREN",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1509",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-15:00",
+        "MA": "",
+        "MI": "13:00-15:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    }
+  ],
+  "1510": [
+    {
+      "profesor": "JUAREZ ROBLES ELIZABETH",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1510",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:00-13:00",
+        "MA": "",
+        "MI": "11:00-13:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1510",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:20",
+        "MA": "",
+        "MI": "13:00-14:20",
+        "JU": "",
+        "VI": "13:00-14:20",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "ROMERO ANDALON JESUS ANGEL",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1510",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "ORTIZ JIMENEZ MARIA ELENA",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1510",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL6",
+      "cupo": "20"
+    },
+    {
+      "profesor": "GONZALEZ MAXINEZ DAVID JAIME",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1510",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A325",
+      "cupo": "60"
+    }
+  ],
+  "1511": [
+    {
+      "profesor": "SANCHEZ SANCHEZ VICTOR MANUEL",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1511",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    }
+  ],
+  "1512": [
+    {
+      "profesor": "RAMIREZ CRUZ JOSE LUIS",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1512",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    }
+  ],
+  "1557": [
+    {
+      "profesor": "JUAREZ ROBLES ELIZABETH",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1557",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "15:00-17:00",
+        "MA": "",
+        "MI": "15:00-17:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1557",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:00-17:00",
+        "MI": "",
+        "JU": "15:00-17:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "ALBA VILLA BELEN ANAID",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1557",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:00-19:00",
+        "MI": "",
+        "JU": "17:00-19:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMACHO ALVAREZ JUAN CARLOS",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1557",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:30",
+        "MA": "",
+        "MI": "13:00-14:30",
+        "JU": "",
+        "VI": "13:00-14:30",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "LOPEZ CARRETO JUAN MANUEL",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1557",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "18:40-20:00",
+        "MA": "",
+        "MI": "18:40-20:00",
+        "JU": "",
+        "VI": "18:40-20:00",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    }
+  ],
+  "1558": [
+    {
+      "profesor": "ORTIZ CORDERO GABRIEL",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1558",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "15:00-17:00",
+        "MA": "",
+        "MI": "15:00-17:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "HERNANDEZ CABRERA JESUS",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1558",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:00-17:15",
+        "MI": "",
+        "JU": "15:00-17:15",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "ROMERO ANDALON JESUS ANGEL",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1558",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "CAMACHO ALVAREZ JUAN CARLOS",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1558",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:00-18:30",
+        "MA": "",
+        "MI": "17:00-18:30",
+        "JU": "",
+        "VI": "17:00-18:30",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "ARELLANO RIVERA ESTEBAN",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1558",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:00-21:20",
+        "MA": "",
+        "MI": "20:00-21:20",
+        "JU": "",
+        "VI": "20:00-21:20",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    }
+  ],
+  "1559": [
+    {
+      "profesor": "ORTIZ CORDERO GABRIEL",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1559",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:00-17:00",
+        "MI": "",
+        "JU": "15:00-17:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    },
+    {
+      "profesor": "CAMACHO ALVAREZ JUAN CARLOS",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1559",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:00-19:00",
+        "MI": "",
+        "JU": "17:00-19:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    },
+    {
+      "profesor": "ALBA VILLA BELEN ANAID",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1559",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:00-21:00",
+        "MI": "",
+        "JU": "19:00-21:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1559",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "14:30-16:00",
+        "MA": "",
+        "MI": "14:30-16:00",
+        "JU": "",
+        "VI": "14:30-16:00",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "0"
+    },
+    {
+      "profesor": "LOZANO MENDEZ EFREN",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1559",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:00-19:00",
+        "MA": "",
+        "MI": "17:00-19:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    }
+  ],
+  "1560": [
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "0442",
+      "materia": "LENGUAJES FORMALES-AUTOMATAS",
+      "grupo": "1560",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:00-21:00",
+        "MI": "",
+        "JU": "19:00-21:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1560",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "16:00-17:30",
+        "MA": "",
+        "MI": "16:00-17:30",
+        "JU": "",
+        "VI": "16:00-17:30",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    },
+    {
+      "profesor": "VIDAL CASTRO RICARDO ADOLFO",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1560",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-11:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMACHO ALVAREZ JUAN CARLOS",
+      "clave": "1504",
+      "materia": "PROGRAMACION WEB 1",
+      "grupo": "1560",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "14:30-16:00",
+        "MA": "",
+        "MI": "14:30-16:00",
+        "JU": "",
+        "VI": "14:30-16:00",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PATIÑO RODRIGUEZ RAMON",
+      "clave": "1521",
+      "materia": "DISEÃ‘O LOGICO (L)",
+      "grupo": "1560",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:20",
+        "MA": "",
+        "MI": "19:00-20:20",
+        "JU": "",
+        "VI": "19:00-20:20",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    }
+  ],
+  "1561": [
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "1500",
+      "materia": "DISEÃ‘O Y ANALISIS DE ALGORITMOS",
+      "grupo": "1561",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "GUERRERO SANTAMARIA EFREN",
+      "clave": "1503",
+      "materia": "ADMINISTRACION DE PROYECTOS",
+      "grupo": "1561",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "20:00-22:00",
+        "MI": "",
+        "JU": "20:00-22:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    }
+  ],
+  "1607": [
+    {
+      "profesor": "ORDOÑEZ ROSALES MARTIN",
+      "clave": "0434",
+      "materia": "COMPILADORES",
+      "grupo": "1607",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "11:00-15:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VAZQUEZ MORALES RODOLFO",
+      "clave": "0840",
+      "materia": "SISTEMAS OPERATIVOS",
+      "grupo": "1607",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    },
+    {
+      "profesor": "HERNANDEZ HERNANDEZ MARTIN",
+      "clave": "1604",
+      "materia": "DISEÃ‘O DE SISTEMAS DIGITALES (L)",
+      "grupo": "1607",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "GONZALEZ HERNANDEZ MARIA GABRIELA",
+      "clave": "1605",
+      "materia": "INGENIERIA DE SOFTWARE",
+      "grupo": "1607",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1608": [
+    {
+      "profesor": "GONZALEZ HERNANDEZ MARIA GABRIELA",
+      "clave": "0840",
+      "materia": "SISTEMAS OPERATIVOS",
+      "grupo": "1608",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "GONZALEZ MAXINEZ DAVID JAIME",
+      "clave": "1604",
+      "materia": "DISEÃ‘O DE SISTEMAS DIGITALES (L)",
+      "grupo": "1608",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:00-12:20",
+        "MA": "",
+        "MI": "11:00-12:20",
+        "JU": "",
+        "VI": "11:00-12:20",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    }
+  ],
+  "1657": [
+    {
+      "profesor": "GUTIERREZ OROZCO RICARDO ARTURO",
+      "clave": "0434",
+      "materia": "COMPILADORES",
+      "grupo": "1657",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:30-21:50",
+        "MA": "",
+        "MI": "20:30-21:50",
+        "JU": "",
+        "VI": "20:30-21:50",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "AYALA PEÑA ESTEBAN",
+      "clave": "0840",
+      "materia": "SISTEMAS OPERATIVOS",
+      "grupo": "1657",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "20:00-22:00",
+        "MI": "",
+        "JU": "20:00-22:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "LOZANO MENDEZ EFREN",
+      "clave": "1604",
+      "materia": "DISEÃ‘O DE SISTEMAS DIGITALES (L)",
+      "grupo": "1657",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-21:00",
+        "MA": "",
+        "MI": "19:00-21:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    },
+    {
+      "profesor": "CRUZ LUEVANO BLANCA ESTELA",
+      "clave": "1605",
+      "materia": "INGENIERIA DE SOFTWARE",
+      "grupo": "1657",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:40-19:00",
+        "MA": "",
+        "MI": "17:40-19:00",
+        "JU": "",
+        "VI": "17:40-19:00",
+        "SA": ""
+      },
+      "salon": "A8117",
+      "cupo": "25"
+    }
+  ],
+  "1658": [
+    {
+      "profesor": "GONZALEZ HERNANDEZ MARIA GABRIELA",
+      "clave": "0840",
+      "materia": "SISTEMAS OPERATIVOS",
+      "grupo": "1658",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    },
+    {
+      "profesor": "GONZALEZ HERNANDEZ MARIA GABRIELA",
+      "clave": "1605",
+      "materia": "INGENIERIA DE SOFTWARE",
+      "grupo": "1658",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:45-17:45",
+        "MI": "",
+        "JU": "15:45-17:45",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    }
+  ],
+  "1707": [
+    {
+      "profesor": "GUTIERREZ OROZCO RICARDO ARTURO",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1707",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A216",
+      "cupo": "55"
+    },
+    {
+      "profesor": "SANCHEZ SANCHEZ VICTOR MANUEL",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1707",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL7",
+      "cupo": "37"
+    },
+    {
+      "profesor": "GALICIA RANGEL GILDA",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1707",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "BERNAL DIAZ ARCELIA",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1707",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:40-10:00",
+        "MA": "",
+        "MI": "08:40-10:00",
+        "JU": "",
+        "VI": "08:40-10:00",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    }
+  ],
+  "1708": [
+    {
+      "profesor": "MENDOZA GONZALEZ OMAR",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1708",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    },
+    {
+      "profesor": "SANCHEZ HERNANDEZ MIGUEL ANGEL",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1708",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL1",
+      "cupo": "20"
+    },
+    {
+      "profesor": "GARCIA MONROY JOSE ANTONIO",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1708",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-11:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GONZALEZ MAXINEZ DAVID JAIME",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1708",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    }
+  ],
+  "1709": [
+    {
+      "profesor": "GUTIERREZ OROZCO RICARDO ARTURO",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1709",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A507",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VERDUZCO RODRIGUEZ MARIANA",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1709",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-14:00",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL6",
+      "cupo": "20"
+    },
+    {
+      "profesor": "QUINTERO CERVANTES JOSE MANUEL",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1709",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A1023",
+      "cupo": "50"
+    },
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1709",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    }
+  ],
+  "1710": [
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1710",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A215",
+      "cupo": "45"
+    },
+    {
+      "profesor": "VELASCO AGUSTIN AARON",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1710",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "QUINTERO CERVANTES JOSE MANUEL",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1710",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11204",
+      "cupo": "40"
+    },
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1710",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "08:30-09:50",
+        "MA": "",
+        "MI": "08:30-09:50",
+        "JU": "",
+        "VI": "08:30-09:50",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    }
+  ],
+  "1711": [
+    {
+      "profesor": "VERDUZCO RODRIGUEZ MARIANA",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1711",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "10:00-14:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "PEREZ MUÑOZ ANTONIO GERARDO",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1711",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    }
+  ],
+  "1757": [
+    {
+      "profesor": "CANDELARIO ALAVEZ JORGE LUIS",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1757",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "VERDUZCO RODRIGUEZ MARIANA",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1757",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "10:00-14:00",
+        "SA": ""
+      },
+      "salon": "A205",
+      "cupo": "55"
+    },
+    {
+      "profesor": "GARCIA GUZMAN ENRIQUE",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1757",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "16:00-18:00",
+        "MI": "",
+        "JU": "16:00-18:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    },
+    {
+      "profesor": "HERNANDEZ CONTRERAS JUAN MANUEL",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1757",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "15:00-16:20",
+        "MA": "",
+        "MI": "15:00-16:20",
+        "JU": "",
+        "VI": "15:00-16:20",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1758": [
+    {
+      "profesor": "VELASCO AGUSTIN AARON",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1758",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-15:00",
+        "MA": "",
+        "MI": "13:00-15:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    },
+    {
+      "profesor": "VELASCO AGUSTIN AARON",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1758",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:00-19:15",
+        "MA": "",
+        "MI": "17:00-19:15",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "ANAYA MANILA DZOARA IVETTE",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1758",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:30-21:50",
+        "MA": "",
+        "MI": "20:30-21:50",
+        "JU": "",
+        "VI": "20:30-21:50",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "LOZANO MENDEZ EFREN",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1758",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "15:00-17:00",
+        "MA": "",
+        "MI": "15:00-17:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    }
+  ],
+  "1759": [
+    {
+      "profesor": "CRUZ LUEVANO BLANCA ESTELA",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1759",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:20",
+        "MA": "",
+        "MI": "19:00-20:20",
+        "JU": "",
+        "VI": "19:00-20:20",
+        "SA": ""
+      },
+      "salon": "A214",
+      "cupo": "60"
+    },
+    {
+      "profesor": "SANCHEZ HERNANDEZ MIGUEL ANGEL",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1759",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A1023",
+      "cupo": "50"
+    },
+    {
+      "profesor": "GARCIA GUZMAN ENRIQUE",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1759",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "OCAMPO ALVAREZ ARTURO",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1759",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "16:00-18:00",
+        "MI": "",
+        "JU": "16:00-18:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8120",
+      "cupo": "30"
+    }
+  ],
+  "1760": [
+    {
+      "profesor": "GUTIERREZ OROZCO RICARDO ARTURO",
+      "clave": "0789",
+      "materia": "SISTEMAS DE INFORMACION",
+      "grupo": "1760",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "20:00-22:00",
+        "MI": "",
+        "JU": "20:00-22:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A212",
+      "cupo": "55"
+    },
+    {
+      "profesor": "RAMOS MARQUEZ JUAN CARLOS",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1760",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "15:00-17:00",
+        "MI": "",
+        "JU": "15:00-17:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "1719",
+      "materia": "REDES DE COMPUTADORAS 1 (L)",
+      "grupo": "1760",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:00-19:00",
+        "MI": "",
+        "JU": "17:00-19:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    },
+    {
+      "profesor": "GONZALEZ MAXINEZ DAVID JAIME",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1760",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A505",
+      "cupo": "50"
+    }
+  ],
+  "1761": [
+    {
+      "profesor": "HERNANDEZ CABRERA JESUS",
+      "clave": "1718",
+      "materia": "PROGRAMACION WEB 2",
+      "grupo": "1761",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:30",
+        "MA": "",
+        "MI": "13:00-14:30",
+        "JU": "",
+        "VI": "13:00-14:30",
+        "SA": ""
+      },
+      "salon": "CCSAL9",
+      "cupo": "30"
+    },
+    {
+      "profesor": "MARTINEZ ROMERO JONATHAN",
+      "clave": "1800",
+      "materia": "MICROPROCESADOR.Y MICROCONTROLAD.(L)",
+      "grupo": "1761",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "13:00-14:20",
+        "MA": "",
+        "MI": "13:00-14:20",
+        "JU": "",
+        "VI": "13:00-14:20",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    }
+  ],
+  "1807": [
+    {
+      "profesor": "GERMAN ROSAS CESAR FRANCISCO",
+      "clave": "1810",
+      "materia": "BASES DE DATOS 2",
+      "grupo": "1807",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-11:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CAMACHO ALVAREZ JUAN CARLOS",
+      "clave": "1812",
+      "materia": "PROGRAMACION MOVIL 1",
+      "grupo": "1807",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL5",
+      "cupo": "25"
+    },
+    {
+      "profesor": "GARCIA GUZMAN ENRIQUE",
+      "clave": "1813",
+      "materia": "REDES DE COMPUTADORAS 2",
+      "grupo": "1807",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    },
+    {
+      "profesor": "FERIA VICTORIA MARIA ANGELICA",
+      "clave": "1917",
+      "materia": "HABILIDADES DIRECTIVAS",
+      "grupo": "1807",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "09:00-11:00",
+        "MA": "",
+        "MI": "09:00-11:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11201",
+      "cupo": "40"
+    }
+  ],
+  "1808": [
+    {
+      "profesor": "MENDOZA GONZALEZ OMAR",
+      "clave": "1810",
+      "materia": "BASES DE DATOS 2",
+      "grupo": "1808",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GARCIA MONROY JOSE ANTONIO",
+      "clave": "1813",
+      "materia": "REDES DE COMPUTADORAS 2",
+      "grupo": "1808",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "11:00-15:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GARIBAY PEDRAZA ALMA LILIA",
+      "clave": "1917",
+      "materia": "HABILIDADES DIRECTIVAS",
+      "grupo": "1808",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    }
+  ],
+  "1857": [
+    {
+      "profesor": "SOBERANES JAIME ROBERTO MISAEL",
+      "clave": "1810",
+      "materia": "BASES DE DATOS 2",
+      "grupo": "1857",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-21:00",
+        "MA": "",
+        "MI": "19:00-21:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GUTIERREZ LOPEZ FELIPE DE JESUS",
+      "clave": "1812",
+      "materia": "PROGRAMACION MOVIL 1",
+      "grupo": "1857",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "17:30-22:00",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "1813",
+      "materia": "REDES DE COMPUTADORAS 2",
+      "grupo": "1857",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:00-21:00",
+        "MI": "",
+        "JU": "19:00-21:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    },
+    {
+      "profesor": "UGALDE LOPEZ JUDITH",
+      "clave": "1917",
+      "materia": "HABILIDADES DIRECTIVAS",
+      "grupo": "1857",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "17:00-21:00",
+        "SA": ""
+      },
+      "salon": "A11205",
+      "cupo": "40"
+    }
+  ],
+  "1858": [
+    {
+      "profesor": "GUERRERO SANTAMARIA EFREN",
+      "clave": "1917",
+      "materia": "HABILIDADES DIRECTIVAS",
+      "grupo": "1858",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:00-22:00",
+        "MA": "",
+        "MI": "20:00-22:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    }
+  ],
+  "1859": [
+    {
+      "profesor": "QUIROZ ALMARAZ SERGIO",
+      "clave": "1813",
+      "materia": "REDES DE COMPUTADORAS 2",
+      "grupo": "1859",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:00-21:00",
+        "MI": "",
+        "JU": "19:00-21:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8121",
+      "cupo": "26"
+    },
+    {
+      "profesor": "REYES TECONTERO NORMA",
+      "clave": "1917",
+      "materia": "HABILIDADES DIRECTIVAS",
+      "grupo": "1859",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-21:00",
+        "MA": "",
+        "MI": "19:00-21:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    }
+  ],
+  "1907": [
+    {
+      "profesor": "ROMERO UGALDE MARTIN MANUEL",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1907",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:20-12:40",
+        "MA": "",
+        "MI": "11:20-12:40",
+        "JU": "",
+        "VI": "11:20-12:40",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    },
+    {
+      "profesor": "VAZQUEZ MORALES RODOLFO",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1907",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:20",
+        "MA": "",
+        "MI": "07:00-08:20",
+        "JU": "",
+        "VI": "07:00-08:20",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    },
+    {
+      "profesor": "SANCHEZ HERNANDEZ MIGUEL ANGEL",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1907",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    }
+  ],
+  "1908": [
+    {
+      "profesor": "OLIVER MORALES CARLOS",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1908",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A211",
+      "cupo": "60"
+    },
+    {
+      "profesor": "NERIA OROZCO ERIK DE JESUS",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1908",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "07:00-09:00",
+        "MI": "",
+        "JU": "07:00-09:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    },
+    {
+      "profesor": "MENDOZA GONZALEZ OMAR",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1908",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL9",
+      "cupo": "30"
+    }
+  ],
+  "1909": [
+    {
+      "profesor": "CAMPOS BRAVO JORGE IVAN",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1909",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A506",
+      "cupo": "50"
+    },
+    {
+      "profesor": "HERNANDEZ AUDELO LEOBARDO",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1909",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "11:00-13:00",
+        "MI": "",
+        "JU": "11:00-13:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    },
+    {
+      "profesor": "CANTO GALLO RAFAEL",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1909",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    }
+  ],
+  "1910": [
+    {
+      "profesor": "ROMERO UGALDE MARTIN MANUEL",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1910",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "10:00-11:20",
+        "MA": "",
+        "MI": "10:00-11:20",
+        "JU": "",
+        "VI": "10:00-11:20",
+        "SA": ""
+      },
+      "salon": "A11202",
+      "cupo": "45"
+    },
+    {
+      "profesor": "VERDUZCO RODRIGUEZ MARIANA",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1910",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "09:00-11:00",
+        "MI": "",
+        "JU": "09:00-11:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11203",
+      "cupo": "40"
+    },
+    {
+      "profesor": "MENDOZA GONZALEZ OMAR",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1910",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "11:40-13:00",
+        "MA": "",
+        "MI": "11:40-13:00",
+        "JU": "",
+        "VI": "11:40-13:00",
+        "SA": ""
+      },
+      "salon": "A203",
+      "cupo": "60"
+    }
+  ],
+  "1957": [
+    {
+      "profesor": "MONTERROSA ESCOBAR AMILCAR AMADO",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1957",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "13:00-15:00",
+        "MI": "",
+        "JU": "13:00-15:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8118",
+      "cupo": "26"
+    },
+    {
+      "profesor": "NAVARRO DIAZ RAMON",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1957",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "09:00-13:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CANTO GALLO RAFAEL",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1957",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-20:20",
+        "MA": "",
+        "MI": "19:00-20:20",
+        "JU": "",
+        "VI": "19:00-20:20",
+        "SA": ""
+      },
+      "salon": "CCSAL1",
+      "cupo": "20"
+    }
+  ],
+  "1958": [
+    {
+      "profesor": "JUAREZ ROBLES ELIZABETH",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1958",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "17:00-19:00",
+        "MA": "",
+        "MI": "17:00-19:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A213",
+      "cupo": "60"
+    },
+    {
+      "profesor": "PALMA LOPEZ DANIEL FERNANDO",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1958",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "11:00-15:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "JUAREZ ROBLES ELIZABETH",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1958",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-21:00",
+        "MA": "",
+        "MI": "19:00-21:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11205",
+      "cupo": "40"
+    }
+  ],
+  "1959": [
+    {
+      "profesor": "MORALES PALAFOX EDGAR",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1959",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "20:00-22:00",
+        "MA": "",
+        "MI": "20:00-22:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    },
+    {
+      "profesor": "PALMA LOPEZ DANIEL FERNANDO",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1959",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-11:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    },
+    {
+      "profesor": "CANTO GALLO RAFAEL",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1959",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CCSAL6",
+      "cupo": "20"
+    }
+  ],
+  "1960": [
+    {
+      "profesor": "ROMERO UGALDE MARTIN MANUEL",
+      "clave": "0406",
+      "materia": "INTELIGENCIA ARTIFICIAL",
+      "grupo": "1960",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "14:00-16:00",
+        "MA": "",
+        "MI": "14:00-16:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A8119",
+      "cupo": "26"
+    },
+    {
+      "profesor": "AGUILAR HERNANDEZ JOSE FRANCISCO",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1960",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "19:00-21:00",
+        "MA": "",
+        "MI": "19:00-21:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A504",
+      "cupo": "60"
+    },
+    {
+      "profesor": "GOYTIA HERRERA MARCO INTI",
+      "clave": "1908",
+      "materia": "MINERIA DE DATOS",
+      "grupo": "1960",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "19:00-21:00",
+        "MI": "",
+        "JU": "19:00-21:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A204",
+      "cupo": "60"
+    }
+  ],
+  "1961": [
+    {
+      "profesor": "SOBERANES JAIME ROBERTO MISAEL",
+      "clave": "1705",
+      "materia": "SEGURIDAD INFORMATICA",
+      "grupo": "1961",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "18:00-20:00",
+        "MI": "",
+        "JU": "18:00-20:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "A11204",
+      "cupo": "40"
+    }
+  ],
+  "8701": [
+    {
+      "profesor": "DAVILA PEREZ RENE ADRIAN",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8701",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "07:00-08:30"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    }
+  ],
+  "8702": [
+    {
+      "profesor": "DAVILA PEREZ RENE ADRIAN",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8702",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "08:30-10:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    }
+  ],
+  "8703": [
+    {
+      "profesor": "DAVILA PEREZ RENE ADRIAN",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8703",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "10:00-11:30"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    }
+  ],
+  "8704": [
+    {
+      "profesor": "DAVILA PEREZ RENE ADRIAN",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8704",
+      "tipo": "A DISTANCIA",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": "11:30-13:00"
+      },
+      "salon": "VIRTUAL",
+      "cupo": "60"
+    }
+  ],
+  "8705": [
+    {
+      "profesor": "QUINTERO CERVANTES JOSE MANUEL",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8705",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "07:00-08:30",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ],
+  "8706": [
+    {
+      "profesor": "QUINTERO CERVANTES JOSE MANUEL",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8706",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "07:00-08:30",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ],
+  "8707": [
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8707",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "18:30-20:00",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ],
+  "8708": [
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8708",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "18:30-20:00",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ],
+  "8709": [
+    {
+      "profesor": "TORRES RODRIGUEZ GERARDO",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8709",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "",
+        "VI": "18:30-20:00",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ],
+  "8710": [
+    {
+      "profesor": "LOPEZ HERNANDEZ JORGE ARTURO",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8710",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "17:30-19:00",
+        "MI": "",
+        "JU": "",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ],
+  "8711": [
+    {
+      "profesor": "LOPEZ HERNANDEZ JORGE ARTURO",
+      "clave": "8702",
+      "materia": "LAB REDES DE COMPUTADORAS I",
+      "grupo": "8711",
+      "tipo": "PRESENCIAL",
+      "horario": {
+        "LU": "",
+        "MA": "",
+        "MI": "",
+        "JU": "17:30-19:00",
+        "VI": "",
+        "SA": ""
+      },
+      "salon": "CLOUD",
+      "cupo": "30"
+    }
+  ]
+}
