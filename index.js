@@ -42,13 +42,25 @@ let obtenerHorarios = async () => {
   const resultados = {};
 
   for (const grupo of grupos) {
-    await page.selectOption("#gpos", grupo);
-    await page.waitForFunction(() => {
-      const tabla = document.querySelector("#tabla");
-      return tabla && tabla.innerHTML.includes("<table");
-    });
-    await page.waitForTimeout(300); // Por si tarda en renderizar
+    console.log(`🔁 Procesando grupo ${grupo}`);
 
+    // Guardamos el HTML anterior de la tabla
+    const tablaAnterior = await page.$eval("#tabla", (el) => el.innerHTML);
+
+    // Seleccionamos el grupo
+    await page.selectOption("#gpos", grupo);
+
+    // Esperamos a que el contenido cambie realmente
+    await page.waitForFunction(
+      (prevHtml) => {
+        const actual = document.querySelector("#tabla")?.innerHTML;
+        return actual && actual !== prevHtml;
+      },
+      tablaAnterior,
+      { timeout: 5000 }
+    );
+
+    // Extraemos datos de la tabla actualizada
     const datos = await page.evaluate(() => {
       const rows = Array.from(document.querySelectorAll("#tabla table tr"));
       if (rows.length <= 1) return [];
@@ -75,7 +87,7 @@ let obtenerHorarios = async () => {
       });
     });
 
-    // 🔧 Aplicamos formateo de horarios aquí (ya en Node.js)
+    // Formateamos los horarios
     resultados[grupo] = datos.map((materia) => ({
       ...materia,
       horario: {
