@@ -1,0 +1,80 @@
+{
+  "INGENIERIA MECANICA": {
+    "1103": [
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1103",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:15-11:30",
+          "MI": "",
+          "JU": "09:15-11:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      }
+    ],
+    "1113": [
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1113",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "11:30-13:45",
+          "MI": "",
+          "JU": "11:30-13:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      }
+    ],
+    "1163": [
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1163",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:45-18:00",
+          "MI": "",
+          "JU": "15:45-18:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      }
+    ],
+    "1513": [
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1430",
+        "materia": "MODELADO DE SISTEMAS FISICOS",
+        "grupo": "1513",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:20-12:40",
+          "MA": "",
+          "MI": "11:20-12:40",
+          "JU": "",
+          "VI": "11:20-12:40",
+          "SA": ""
+        },
+        "salon": "A221",
+        "cupo": "45"
+      }
+    ]
+  }
+}

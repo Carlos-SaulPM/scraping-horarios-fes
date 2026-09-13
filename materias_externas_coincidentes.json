@@ -1,0 +1,2138 @@
+{
+  "INGENIERIA CIVIL": {
+    "1100": [
+      {
+        "profesor": "MENCHACA ROCHA ROSA MARIA",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1100",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "14:30-16:00",
+          "MA": "",
+          "MI": "14:30-16:00",
+          "JU": "",
+          "VI": "14:30-16:00",
+          "SA": ""
+        },
+        "salon": "A8113",
+        "cupo": "30"
+      },
+      {
+        "profesor": "GALICIA FRANCO JERONIMO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1100",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "12:15-14:30",
+          "MI": "",
+          "JU": "12:15-14:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "L41020",
+        "cupo": "10"
+      }
+    ],
+    "1101": [
+      {
+        "profesor": "HERNANDEZ MALDONADO MARIA DE LOS ANGELES",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1101",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "60"
+      },
+      {
+        "profesor": "GONZALEZ SAKAGUCHI JUAN ALFONSO",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1101",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A521",
+        "cupo": "60"
+      },
+      {
+        "profesor": "JURADO SOSA DIEGO RAMON",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1101",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "07:00-08:30",
+          "MA": "",
+          "MI": "07:00-08:30",
+          "JU": "",
+          "VI": "07:00-08:30",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "60"
+      }
+    ],
+    "1102": [
+      {
+        "profesor": "ZARATE MORALES MARIDEL",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1102",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "08:30-10:45",
+          "MI": "",
+          "JU": "08:30-10:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "60"
+      },
+      {
+        "profesor": "HERNANDEZ GALICIA SALOMON",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1102",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "60"
+      },
+      {
+        "profesor": "GONZALEZ SAKAGUCHI JUAN ALFONSO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1102",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "07:00-08:30",
+          "MA": "",
+          "MI": "07:00-08:30",
+          "JU": "",
+          "VI": "07:00-08:30",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "60"
+      }
+    ],
+    "1111": [
+      {
+        "profesor": "MEDRANO SANTIAGO ERICK ALEJANDRO",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1111",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "10:45-13:00",
+          "MI": "",
+          "JU": "10:45-13:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "60"
+      },
+      {
+        "profesor": "VILCHIS ROMO LUIS FELIPE",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1111",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "13:00-14:30",
+          "MA": "",
+          "MI": "13:00-14:30",
+          "JU": "",
+          "VI": "13:00-14:30",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "60"
+      },
+      {
+        "profesor": "SOLIS ALCANTAR EVERARDO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1111",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:00-17:15",
+          "MI": "",
+          "JU": "15:00-17:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A525",
+        "cupo": "60"
+      }
+    ],
+    "1150": [
+      {
+        "profesor": "ALMAZAN JARAMILLO TRINIDAD ADOLFO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1150",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:15-17:30",
+          "MI": "",
+          "JU": "15:15-17:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A8113",
+        "cupo": "30"
+      }
+    ],
+    "1151": [
+      {
+        "profesor": "HERNANDEZ GALICIA SALOMON",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1151",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "60"
+      },
+      {
+        "profesor": "PEREZ GUZMAN ALEJANDRO",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1151",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A524",
+        "cupo": "60"
+      },
+      {
+        "profesor": "GARCIA AGUILAR JOSE GUADALUPE",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1151",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "17:30-19:45",
+          "MI": "",
+          "JU": "17:30-19:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "60"
+      }
+    ],
+    "1152": [
+      {
+        "profesor": "JIMENEZ SARMIENTO JOSE",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1152",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:15-17:30",
+          "MI": "",
+          "JU": "15:15-17:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A521",
+        "cupo": "60"
+      },
+      {
+        "profesor": "MENCHACA ROCHA ROSA MARIA",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1152",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "60"
+      },
+      {
+        "profesor": "PEREZ GUZMAN ALEJANDRO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1152",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "60"
+      }
+    ],
+    "1201": [
+      {
+        "profesor": "DUARTE MENDOZA CLAUDIA IVONNE",
+        "clave": "0062",
+        "materia": "ALGEBRA LINEAL",
+        "grupo": "1201",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:15-11:30",
+          "MI": "",
+          "JU": "09:15-11:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A8113",
+        "cupo": "30"
+      },
+      {
+        "profesor": "FERNANDEZ TORRES GUSTAVO",
+        "clave": "0063",
+        "materia": "CALCULO VECTORIAL",
+        "grupo": "1201",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "L41020",
+        "cupo": "10"
+      }
+    ],
+    "1202": [
+      {
+        "profesor": "AGUILAR PEREZ FERNANDO",
+        "clave": "0062",
+        "materia": "ALGEBRA LINEAL",
+        "grupo": "1202",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "L41010",
+        "cupo": "15"
+      }
+    ],
+    "1250": [
+      {
+        "profesor": "GARCIA AGUILAR JOSE GUADALUPE",
+        "clave": "0062",
+        "materia": "ALGEBRA LINEAL",
+        "grupo": "1250",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "19:45-22:00",
+          "MI": "",
+          "JU": "19:45-22:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A8115",
+        "cupo": "30"
+      }
+    ],
+    "1252": [
+      {
+        "profesor": "MENCHACA ROCHA ROSA MARIA",
+        "clave": "0062",
+        "materia": "ALGEBRA LINEAL",
+        "grupo": "1252",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "60"
+      },
+      {
+        "profesor": "SOLIS ALCANTAR EVERARDO",
+        "clave": "0063",
+        "materia": "CALCULO VECTORIAL",
+        "grupo": "1252",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "18:45-21:00",
+          "MI": "",
+          "JU": "18:45-21:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "L41020",
+        "cupo": "10"
+      }
+    ],
+    "1301": [
+      {
+        "profesor": "ROCHA JIMENEZ MARIA",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1301",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A524",
+        "cupo": "45"
+      },
+      {
+        "profesor": "FERNANDEZ TORRES GUSTAVO",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1301",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "11:30-13:45",
+          "MI": "",
+          "JU": "11:30-13:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A524",
+        "cupo": "45"
+      },
+      {
+        "profesor": "GARCIA SANTAMARIA GONZALEZ GILBERTO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1301",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "45"
+      }
+    ],
+    "1302": [
+      {
+        "profesor": "ESTRADA GARCIA EDUARDO",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1302",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A8116",
+        "cupo": "30"
+      },
+      {
+        "profesor": "MENCHACA ROCHA ROSA MARIA",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1302",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "CCSAL5",
+        "cupo": "45"
+      },
+      {
+        "profesor": "FERNANDEZ TORRES GUSTAVO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1302",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:15-11:30",
+          "MI": "",
+          "JU": "09:15-11:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A521",
+        "cupo": "45"
+      }
+    ],
+    "1310": [
+      {
+        "profesor": "ROCHA JIMENEZ MARIA",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1310",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "07:00-08:30",
+          "MA": "",
+          "MI": "07:00-08:30",
+          "JU": "",
+          "VI": "07:00-08:30",
+          "SA": ""
+        },
+        "salon": "A525",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VIGUERAS MU&Ntilde;OZ LUIS POMPOSO",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1310",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A523",
+        "cupo": "45"
+      },
+      {
+        "profesor": "GONZALEZ SAKAGUCHI JUAN ALFONSO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1310",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A11208",
+        "cupo": "45"
+      }
+    ],
+    "1351": [
+      {
+        "profesor": "HERNANDEZ GALICIA SALOMON",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1351",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A522",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MENCHACA ROCHA ROSA MARIA",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1351",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A524",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VILCHIS ROMO LUIS FELIPE",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1351",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A521",
+        "cupo": "45"
+      }
+    ],
+    "1352": [
+      {
+        "profesor": "GONZALEZ SAKAGUCHI JUAN ALFONSO",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1352",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "13:00-14:30",
+          "MA": "",
+          "MI": "13:00-14:30",
+          "JU": "",
+          "VI": "13:00-14:30",
+          "SA": ""
+        },
+        "salon": "A524",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MORALES GONZALEZ JORGE CARLOS",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1352",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "16:00-18:15",
+          "MI": "",
+          "JU": "16:00-18:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A11208",
+        "cupo": "45"
+      },
+      {
+        "profesor": "HERNANDEZ GALICIA SALOMON",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1352",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A524",
+        "cupo": "45"
+      }
+    ]
+  },
+  "INGENIERIA ELECTRICA Y ELECTRONICA": {
+    "1105": [
+      {
+        "profesor": "PAREDES ROMERO ADRIAN",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1105",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MARIN EMILIO MARIA DE LOURDES",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1105",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "07:00-09:15",
+          "MI": "",
+          "JU": "07:00-09:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      },
+      {
+        "profesor": "GONZALEZ BETANCOURT NORA ABIGAIL",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1105",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:15-11:30",
+          "MI": "",
+          "JU": "09:15-11:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      }
+    ],
+    "1106": [
+      {
+        "profesor": "GUTIERREZ FLORES FIDEL",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1106",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "08:30-10:45",
+          "MI": "",
+          "JU": "08:30-10:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VERA VARGAS JOSUE",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1106",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "45"
+      },
+      {
+        "profesor": "PAREDES ROMERO ADRIAN",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1106",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "45"
+      }
+    ],
+    "1116": [
+      {
+        "profesor": "GUTIERREZ FLORES FIDEL",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1116",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "10:45-13:00",
+          "MI": "",
+          "JU": "10:45-13:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "45"
+      },
+      {
+        "profesor": "OSORIO RAMIREZ HECTOR",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1116",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:45-18:00",
+          "MI": "",
+          "JU": "15:45-18:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "45"
+      },
+      {
+        "profesor": "REYES ESCALERA OSCAR",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1116",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "14:45-17:30",
+          "MA": "",
+          "MI": "14:45-17:30",
+          "JU": "",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "45"
+      }
+    ],
+    "1155": [
+      {
+        "profesor": "DE MATIAS AGUILAR FRANCISCO",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1155",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:15-17:30",
+          "MI": "",
+          "JU": "15:15-17:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VERA VARGAS JOSUE",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1155",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VERA VARGAS JOSUE",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1155",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      }
+    ],
+    "1255": [
+      {
+        "profesor": "SANCHEZ MORALES VICTOR MANUEL",
+        "clave": "0063",
+        "materia": "CALCULO VECTORIAL",
+        "grupo": "1255",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A8110",
+        "cupo": "20"
+      }
+    ],
+    "1305": [
+      {
+        "profesor": "RODRIGUEZ GACHUZ XARENI NICTEHA",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1305",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "07:00-08:30",
+          "MA": "",
+          "MI": "07:00-08:30",
+          "JU": "",
+          "VI": "07:00-08:30",
+          "SA": ""
+        },
+        "salon": "A316",
+        "cupo": "45"
+      },
+      {
+        "profesor": "DE MATIAS AGUILAR FRANCISCO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1305",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:45-12:00",
+          "MI": "",
+          "JU": "09:45-12:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A316",
+        "cupo": "45"
+      }
+    ],
+    "1306": [
+      {
+        "profesor": "GUTIERREZ FLORES FIDEL",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1306",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A323",
+        "cupo": "45"
+      },
+      {
+        "profesor": "JIMENEZ SARMIENTO JOSE",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1306",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "08:30-10:45",
+          "MI": "",
+          "JU": "08:30-10:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A323",
+        "cupo": "45"
+      }
+    ],
+    "1316": [
+      {
+        "profesor": "GALLEGOS PERALTA JOSE FRANCISCO",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1316",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-12:15",
+          "MA": "",
+          "MI": "",
+          "JU": "",
+          "VI": "10:00-12:15",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VERA VARGAS JOSUE",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1316",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "14:30-16:00",
+          "MA": "",
+          "MI": "14:30-16:00",
+          "JU": "",
+          "VI": "14:30-16:00",
+          "SA": ""
+        },
+        "salon": "A314",
+        "cupo": "45"
+      }
+    ],
+    "1355": [
+      {
+        "profesor": "BELTRAN GAMERO DAVIEL",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1355",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "17:00-19:15",
+          "MI": "",
+          "JU": "17:00-19:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A316",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VERA VARGAS JOSUE",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1355",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A316",
+        "cupo": "45"
+      }
+    ],
+    "1356": [
+      {
+        "profesor": "GALLEGOS PERALTA JOSE FRANCISCO",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1356",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "12:00-14:15",
+          "MI": "",
+          "JU": "12:00-14:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "L32022",
+        "cupo": "10"
+      },
+      {
+        "profesor": "OSORIO RAMIREZ HECTOR",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1356",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A8110",
+        "cupo": "20"
+      }
+    ],
+    "1505": [
+      {
+        "profesor": "GARZON ACEVES MAX OSWALDO",
+        "clave": "1521",
+        "materia": "DISEÑO LOGICO (L)",
+        "grupo": "1505",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:00-09:20",
+          "MA": "",
+          "MI": "08:00-09:20",
+          "JU": "",
+          "VI": "08:00-09:20",
+          "SA": ""
+        },
+        "salon": "A324",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MONTIEL RODRIGUEZ ISRAEL",
+        "clave": "1522",
+        "materia": "DISPOSITIVOS ELECTRONICOS (L)",
+        "grupo": "1505",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:00-11:00",
+          "MI": "",
+          "JU": "09:00-11:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A324",
+        "cupo": "45"
+      }
+    ],
+    "1506": [
+      {
+        "profesor": "NAVARRO GONZALEZ ANTONIA",
+        "clave": "1521",
+        "materia": "DISEÑO LOGICO (L)",
+        "grupo": "1506",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "11:00-13:00",
+          "MI": "",
+          "JU": "11:00-13:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A502",
+        "cupo": "45"
+      },
+      {
+        "profesor": "PATI&Ntilde;O RODRIGUEZ RAMON",
+        "clave": "1522",
+        "materia": "DISPOSITIVOS ELECTRONICOS (L)",
+        "grupo": "1506",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-12:50",
+          "MA": "",
+          "MI": "11:30-12:50",
+          "JU": "",
+          "VI": "11:30-12:50",
+          "SA": ""
+        },
+        "salon": "A325",
+        "cupo": "45"
+      }
+    ],
+    "1515": [
+      {
+        "profesor": "MARQUEZ RAMIREZ RAFAEL ANTONIO",
+        "clave": "1521",
+        "materia": "DISEÑO LOGICO (L)",
+        "grupo": "1515",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "13:30-15:30",
+          "MA": "",
+          "MI": "13:30-15:30",
+          "JU": "",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A8110",
+        "cupo": "20"
+      }
+    ],
+    "1516": [
+      {
+        "profesor": "PEREZ GARCIA CHRISTIAN JAIR",
+        "clave": "1521",
+        "materia": "DISEÑO LOGICO (L)",
+        "grupo": "1516",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:20-12:40",
+          "MA": "",
+          "MI": "11:20-12:40",
+          "JU": "",
+          "VI": "11:20-12:40",
+          "SA": ""
+        },
+        "salon": "A502",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MARTINEZ CASTILLO GERARDO",
+        "clave": "1522",
+        "materia": "DISPOSITIVOS ELECTRONICOS (L)",
+        "grupo": "1516",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "14:40-16:40",
+          "MA": "",
+          "MI": "14:40-16:40",
+          "JU": "",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A502",
+        "cupo": "45"
+      }
+    ],
+    "1555": [
+      {
+        "profesor": "MARTINEZ ROMERO KARINA",
+        "clave": "1521",
+        "materia": "DISEÑO LOGICO (L)",
+        "grupo": "1555",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "19:00-21:00",
+          "MI": "",
+          "JU": "19:00-21:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A324",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VILLANUEVA ORTEGA JUAN ANTONIO",
+        "clave": "1522",
+        "materia": "DISPOSITIVOS ELECTRONICOS (L)",
+        "grupo": "1555",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "15:30-17:30",
+          "MA": "",
+          "MI": "",
+          "JU": "",
+          "VI": "15:30-17:30",
+          "SA": ""
+        },
+        "salon": "A324",
+        "cupo": "45"
+      }
+    ]
+  },
+  "INGENIERIA INDUSTRIAL": {
+    "1104": [
+      {
+        "profesor": "ABAD DEL MONTE ANGEL",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1104",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      },
+      {
+        "profesor": "GOMEZ MONREAL ARMANDO",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1104",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      },
+      {
+        "profesor": "ESPARZA POSADAS MARCOS",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1104",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      }
+    ],
+    "1114": [
+      {
+        "profesor": "JURADO SOSA DIEGO RAMON",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1114",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A305",
+        "cupo": "45"
+      },
+      {
+        "profesor": "NAVARRETE AVILA HUGO ALONSO",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1114",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A305",
+        "cupo": "45"
+      },
+      {
+        "profesor": "VALDEZ SANCHEZ JOSE IVAN",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1114",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A305",
+        "cupo": "45"
+      }
+    ],
+    "1124": [
+      {
+        "profesor": "AGUILAR PEREZ FERNANDO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1124",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "07:00-08:30",
+          "MA": "",
+          "MI": "07:00-08:30",
+          "JU": "",
+          "VI": "07:00-08:30",
+          "SA": ""
+        },
+        "salon": "A303",
+        "cupo": "45"
+      }
+    ],
+    "1154": [
+      {
+        "profesor": "PEREZ CORONA JOSE MANUEL",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1154",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "17:00-19:15",
+          "MI": "",
+          "JU": "17:00-19:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MORALES GONZALEZ JORGE CARLOS",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1154",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "14:30-16:00",
+          "MA": "",
+          "MI": "14:30-16:00",
+          "JU": "",
+          "VI": "14:30-16:00",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      },
+      {
+        "profesor": "MORENO SANCHEZ HECTOR LISANDRO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1154",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "14:30-16:45",
+          "MI": "",
+          "JU": "14:30-16:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      }
+    ],
+    "1164": [
+      {
+        "profesor": "MORALES GONZALEZ JORGE CARLOS",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1164",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      },
+      {
+        "profesor": "RODRIGUEZ ARGUMEDO URIEL",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1164",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A306",
+        "cupo": "45"
+      },
+      {
+        "profesor": "JIMENEZ ROBLES ONAN",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1164",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A305",
+        "cupo": "45"
+      }
+    ],
+    "1214": [
+      {
+        "profesor": "RODRIGUEZ CASTILLO MARIO",
+        "clave": "0062",
+        "materia": "ALGEBRA LINEAL",
+        "grupo": "1214",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "11:00-13:00",
+          "MI": "",
+          "JU": "11:00-13:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A8112",
+        "cupo": "45"
+      }
+    ],
+    "1224": [
+      {
+        "profesor": "GONZALEZ HERNANDEZ GERARDO",
+        "clave": "0063",
+        "materia": "CALCULO VECTORIAL",
+        "grupo": "1224",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A8112",
+        "cupo": "45"
+      }
+    ],
+    "1304": [
+      {
+        "profesor": "GONZALEZ SAKAGUCHI JUAN ALFONSO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1304",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A304",
+        "cupo": "45"
+      }
+    ],
+    "1314": [
+      {
+        "profesor": "GARCIA CASTILLO FERNANDO NESTOR",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1314",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:30-12:00",
+          "MA": "",
+          "MI": "10:30-12:00",
+          "JU": "",
+          "VI": "10:30-12:00",
+          "SA": ""
+        },
+        "salon": "A303",
+        "cupo": "45"
+      }
+    ],
+    "1354": [
+      {
+        "profesor": "GONZALEZ SAKAGUCHI JUAN ALFONSO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1354",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A304",
+        "cupo": "45"
+      }
+    ],
+    "1364": [
+      {
+        "profesor": "SANCHEZ MORALES VICTOR MANUEL",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1364",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "18:00-20:15",
+          "MI": "",
+          "JU": "18:00-20:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A304",
+        "cupo": "45"
+      }
+    ],
+    "1404": [
+      {
+        "profesor": "VIEYRA REBOYO LUIS ARMANDO",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1404",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A322",
+        "cupo": "45"
+      }
+    ],
+    "1464": [
+      {
+        "profesor": "PEREZ CORONA JOSE MANUEL",
+        "clave": "0712",
+        "materia": "PROBABILIDAD Y ESTADISTICA",
+        "grupo": "1464",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "19:00-20:30",
+          "MA": "",
+          "MI": "19:00-20:30",
+          "JU": "",
+          "VI": "19:00-20:30",
+          "SA": ""
+        },
+        "salon": "A8112",
+        "cupo": "45"
+      }
+    ],
+    "1924": [
+      {
+        "profesor": "MARTINEZ CRUZ JULIO CESAR",
+        "clave": "1627",
+        "materia": "INSTRUMENTACION Y CONTROL",
+        "grupo": "1924",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:00-11:00",
+          "MI": "",
+          "JU": "09:00-11:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A8120",
+        "cupo": "30"
+      }
+    ],
+    "1974": [
+      {
+        "profesor": "SANCHEZ MORALES VICTOR MANUEL",
+        "clave": "1627",
+        "materia": "INSTRUMENTACION Y CONTROL",
+        "grupo": "1974",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "20:15-22:00",
+          "MI": "",
+          "JU": "20:15-22:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A304",
+        "cupo": "45"
+      }
+    ]
+  },
+  "INGENIERIA MECANICA": {
+    "1103": [
+      {
+        "profesor": "PAREDES ROMERO ADRIAN",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1103",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "07:00-09:15",
+          "MI": "",
+          "JU": "07:00-09:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      },
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1103",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "09:15-11:30",
+          "MI": "",
+          "JU": "09:15-11:30",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      },
+      {
+        "profesor": "CARRERA CRUZ JULIO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1103",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:30",
+          "MA": "",
+          "MI": "10:00-11:30",
+          "JU": "",
+          "VI": "10:00-11:30",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      }
+    ],
+    "1113": [
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1113",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "11:30-13:45",
+          "MI": "",
+          "JU": "11:30-13:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      },
+      {
+        "profesor": "GARCIA CASTILLO FERNANDO NESTOR",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1113",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "08:30-10:00",
+          "MA": "",
+          "MI": "08:30-10:00",
+          "JU": "",
+          "VI": "08:30-10:00",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      },
+      {
+        "profesor": "CARRERA CRUZ JULIO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1113",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-13:00",
+          "MA": "",
+          "MI": "11:30-13:00",
+          "JU": "",
+          "VI": "11:30-13:00",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      }
+    ],
+    "1123": [
+      {
+        "profesor": "CORTES CRUZ FRANCISCO JAVIER",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1123",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "07:00-08:30",
+          "MA": "",
+          "MI": "07:00-08:30",
+          "JU": "",
+          "VI": "07:00-08:30",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "15"
+      }
+    ],
+    "1153": [
+      {
+        "profesor": "RAMIREZ VILLA CARLOS EDWIN",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1153",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      },
+      {
+        "profesor": "ROJAS COCA HERMOGENES GUSTAVO",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1153",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:30-19:00",
+          "MA": "",
+          "MI": "17:30-19:00",
+          "JU": "",
+          "VI": "17:30-19:00",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      },
+      {
+        "profesor": "CARRERA CRUZ JULIO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1153",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "16:00-18:15",
+          "MI": "",
+          "JU": "16:00-18:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      }
+    ],
+    "1163": [
+      {
+        "profesor": "RAMIREZ VILLA CARLOS EDWIN",
+        "clave": "1108",
+        "materia": "GEOMETRIA ANALITICA",
+        "grupo": "1163",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "13:30-15:45",
+          "MI": "",
+          "JU": "13:30-15:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      },
+      {
+        "profesor": "RAMIREZ LAZOS ESTEBAN",
+        "clave": "1109",
+        "materia": "CALCULO DIFERENCIAL E INTEGRAL",
+        "grupo": "1163",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "15:45-18:00",
+          "MI": "",
+          "JU": "15:45-18:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      },
+      {
+        "profesor": "CARRERA CRUZ JULIO",
+        "clave": "1110",
+        "materia": "ALGEBRA",
+        "grupo": "1163",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:30-18:00",
+          "MA": "",
+          "MI": "16:30-18:00",
+          "JU": "",
+          "VI": "16:30-18:00",
+          "SA": ""
+        },
+        "salon": "A226",
+        "cupo": "45"
+      }
+    ],
+    "1203": [
+      {
+        "profesor": "GUTIERREZ FLORES FIDEL",
+        "clave": "0062",
+        "materia": "ALGEBRA LINEAL",
+        "grupo": "1203",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "13:00-14:30",
+          "MA": "",
+          "MI": "13:00-14:30",
+          "JU": "",
+          "VI": "13:00-14:30",
+          "SA": ""
+        },
+        "salon": "A223",
+        "cupo": "30"
+      },
+      {
+        "profesor": "OSORIO RAMIREZ HECTOR",
+        "clave": "0063",
+        "materia": "CALCULO VECTORIAL",
+        "grupo": "1203",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "13:30-15:45",
+          "MI": "",
+          "JU": "13:30-15:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A315",
+        "cupo": "10"
+      }
+    ],
+    "1303": [
+      {
+        "profesor": "TORRES CEDILLO SERGIO GUILLERMO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1303",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "11:30-13:45",
+          "MI": "",
+          "JU": "11:30-13:45",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A224",
+        "cupo": "45"
+      }
+    ],
+    "1313": [
+      {
+        "profesor": "DE MATIAS AGUILAR FRANCISCO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1313",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "12:45-15:00",
+          "MI": "",
+          "JU": "12:45-15:00",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A223",
+        "cupo": "45"
+      }
+    ],
+    "1353": [
+      {
+        "profesor": "ROJAS COCA HERMOGENES GUSTAVO",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1353",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "16:00-17:30",
+          "MA": "",
+          "MI": "16:00-17:30",
+          "JU": "",
+          "VI": "16:00-17:30",
+          "SA": ""
+        },
+        "salon": "A224",
+        "cupo": "45"
+      }
+    ],
+    "1363": [
+      {
+        "profesor": "RIVERA CORTES SMYRNA VANESSA",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1363",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "17:40-19:10",
+          "MA": "",
+          "MI": "17:40-19:10",
+          "JU": "",
+          "VI": "17:40-19:10",
+          "SA": ""
+        },
+        "salon": "A223",
+        "cupo": "45"
+      }
+    ],
+    "1373": [
+      {
+        "profesor": "OSORIO RAMIREZ HECTOR",
+        "clave": "1303",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "grupo": "1373",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "12:00-14:15",
+          "MI": "",
+          "JU": "12:00-14:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "-",
+        "cupo": "10"
+      }
+    ],
+    "1453": [
+      {
+        "profesor": "RAMIREZ CRUZ JOSE LUIS",
+        "clave": "0480",
+        "materia": "METODOS NUMERICOS",
+        "grupo": "1453",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "",
+          "MA": "19:00-21:15",
+          "MI": "",
+          "JU": "19:00-21:15",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "-",
+        "cupo": "10"
+      }
+    ],
+    "1703": [
+      {
+        "profesor": "MUNGUIA MOLINA JUAN",
+        "clave": "1627",
+        "materia": "INSTRUMENTACION Y CONTROL",
+        "grupo": "1703",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "10:00-11:20",
+          "MA": "",
+          "MI": "10:00-11:20",
+          "JU": "",
+          "VI": "10:00-11:20",
+          "SA": ""
+        },
+        "salon": "A225",
+        "cupo": "45"
+      }
+    ],
+    "1713": [
+      {
+        "profesor": "MARTINEZ CASTILLO GERARDO",
+        "clave": "1627",
+        "materia": "INSTRUMENTACION Y CONTROL",
+        "grupo": "1713",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "11:30-12:50",
+          "MA": "",
+          "MI": "11:30-12:50",
+          "JU": "",
+          "VI": "11:30-12:50",
+          "SA": ""
+        },
+        "salon": "A223",
+        "cupo": "45"
+      }
+    ],
+    "1753": [
+      {
+        "profesor": "MANCILLA ALONSO HUMBERTO",
+        "clave": "1627",
+        "materia": "INSTRUMENTACION Y CONTROL",
+        "grupo": "1753",
+        "tipo": "PRESENCIAL",
+        "horario": {
+          "LU": "14:00-16:00",
+          "MA": "",
+          "MI": "14:00-16:00",
+          "JU": "",
+          "VI": "",
+          "SA": ""
+        },
+        "salon": "A221",
+        "cupo": "45"
+      }
+    ]
+  }
+}

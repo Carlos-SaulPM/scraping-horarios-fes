@@ -1,9 +1,71 @@
-import { chromium } from "playwright";
 import { writeFile } from "fs/promises";
 
-const URL = "https://www.aragon.unam.mx/horarios/horarios/horarios/";
+const BASE =
+  "https://www.aragon.unam.mx/horarios/horarios/index_archivos/php/queysA.php";
 
-let formatearHorario = (texto) => {
+const SEM = process.env.SEM || "35";
+const CARR = process.env.CARR || "12";
+const HORARIOS_OUT = process.env.HORARIOS_OUT || "horarios.json";
+const EXTERNAS_OUT = process.env.EXTERNAS_OUT || "materias_externas_coincidentes.json";
+const CONCURRENCIA = parseInt(process.env.CONCURRENCIA || "8", 10);
+const INTENTOS = 3;
+
+const ENTIDADES = {
+  "&Aacute;": "Á",
+  "&Eacute;": "É",
+  "&Iacute;": "Í",
+  "&Oacute;": "Ó",
+  "&Uacute;": "Ú",
+  "&Ntilde;": "Ñ",
+  "&aacute;": "á",
+  "&eacute;": "é",
+  "&iacute;": "í",
+  "&oacute;": "ó",
+  "&uacute;": "ú",
+  "&ntilde;": "ñ",
+  "&uuml;": "ü",
+  "&Uuml;": "Ü",
+  "&amp;": "&",
+  "&quot;": '"',
+  "&apos;": "'",
+  "&lt;": "<",
+  "&gt;": ">",
+};
+
+const decodificar = (texto) =>
+  texto.replace(/&[A-Za-z]+;/g, (entidad) => ENTIDADES[entidad] ?? entidad);
+
+const getJSON = async (params) => {
+  const qs = new URLSearchParams(params).toString();
+  const url = `${BASE}?${qs}`;
+  for (let intento = 1; intento <= INTENTOS; intento++) {
+    try {
+      const respuesta = await fetch(url);
+      if (!respuesta.ok) throw new Error(`HTTP ${respuesta.status}`);
+      return await respuesta.json();
+    } catch (error) {
+      if (intento === INTENTOS) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 500 * intento));
+    }
+  }
+};
+
+const procesarConLimite = async (items, limite, fn) => {
+  const salidas = new Array(items.length);
+  let siguiente = 0;
+  const trabajador = async () => {
+    while (siguiente < items.length) {
+      const indice = siguiente++;
+      salidas[indice] = await fn(items[indice], indice);
+    }
+  };
+  await Promise.all(
+    Array.from({ length: Math.min(limite, items.length) }, trabajador),
+  );
+  return salidas;
+};
+
+const formatearHorario = (texto) => {
   if (!texto) return "";
   const limpio = texto.trim().replace(/\s+/g, "");
   const partes = limpio.match(/\d{2}:\d{2}/g);
@@ -11,108 +73,104 @@ let formatearHorario = (texto) => {
   return partes.join("-");
 };
 
-let obtenerHorarios = async () => {
-  console.log("🌐 Abriendo página...");
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
+const TIPOS = { P: "PRESENCIAL", S: "SEMIPRESENCIAL", A: "A DISTANCIA", X: "" };
 
-  await page.goto(URL, { waitUntil: "networkidle" });
-  console.log("📥 Esperando los selects...");
-  await page.waitForSelector("#sem");
-  await page.waitForSelector("#carr");
+const mapearClase = (cruda) => ({
+  profesor: (cruda.nomb_prof || "").trim(),
+  clave: (cruda.clv_materia || "").trim(),
+  materia: (cruda.nomb_cmateria || "").trim(),
+  grupo: (cruda.grupo || "").trim(),
+  tipo: TIPOS[cruda.tipoclase] ?? "",
+  horario: {
+    LU: formatearHorario(cruda.LU),
+    MA: formatearHorario(cruda.MA),
+    MI: formatearHorario(cruda.MI),
+    JU: formatearHorario(cruda.JU),
+    VI: formatearHorario(cruda.VI),
+    SA: formatearHorario(cruda.SA),
+  },
+  salon: (cruda.clv_salon || "") === "SINDEF" ? "-" : (cruda.clv_salon || "").trim(),
+  cupo: (cruda.cupo || "").trim(),
+});
 
-  console.log("📌 Seleccionando valores...");
-  await page.selectOption("#sem", "33");
-  await page.selectOption("#carr", "12");
-  await page.fill("#grupo", "");
-
-  console.log("📨 Enviando formulario...");
-  await Promise.all([
-    page.waitForNavigation({ waitUntil: "networkidle" }),
-    page.click('input[type="submit"]'),
-  ]);
-
-  console.log("📊 Página de grupos cargada");
-  await page.waitForSelector("#gpos");
-
-  const grupos = await page.$$eval("#gpos option", (options) =>
-    options.filter((opt) => opt.value !== "x").map((opt) => opt.value)
+const gruposDeCarrera = async (idCarrera) => {
+  const grupos = (await getJSON({ tipo: 4, sem: SEM, carr: idCarrera })).map(
+    (g) => g.grupo,
   );
-
-  const resultados = {};
-
-  for (const grupo of grupos) {
-    console.log(`🔁 Procesando grupo ${grupo}`);
-
-    // Guardamos el HTML anterior de la tabla
-    const tablaAnterior = await page.$eval("#tabla", (el) => el.innerHTML);
-
-    // Seleccionamos el grupo
-    await page.selectOption("#gpos", grupo);
-
-    // Esperamos a que el contenido cambie realmente
-    await page.waitForFunction(
-      (prevHtml) => {
-        const actual = document.querySelector("#tabla")?.innerHTML;
-        return actual && actual !== prevHtml;
-      },
-      tablaAnterior,
-      { timeout: 5000 }
-    );
-
-    // Extraemos datos de la tabla actualizada
-    const datos = await page.evaluate(() => {
-      const rows = Array.from(document.querySelectorAll("#tabla table tr"));
-      if (rows.length <= 1) return [];
-
-      return rows.slice(1).map((tr) => {
-        const tds = tr.querySelectorAll("td");
-        return {
-          profesor: tds[0]?.textContent.trim() || "",
-          clave: tds[1]?.textContent.trim() || "",
-          materia: tds[2]?.textContent.trim() || "",
-          grupo: tds[3]?.textContent.trim() || "",
-          tipo: tds[4]?.textContent.trim() || "",
-          horario: {
-            LU: tds[5]?.textContent || "",
-            MA: tds[6]?.textContent || "",
-            MI: tds[7]?.textContent || "",
-            JU: tds[8]?.textContent || "",
-            VI: tds[9]?.textContent || "",
-            SA: tds[10]?.textContent || "",
-          },
-          salon: tds[11]?.textContent.trim() || "",
-          cupo: tds[12]?.textContent.trim() || "",
-        };
-      });
-    });
-
-    // Formateamos los horarios
-    resultados[grupo] = datos.map((materia) => ({
-      ...materia,
-      horario: {
-        LU: formatearHorario(materia.horario.LU),
-        MA: formatearHorario(materia.horario.MA),
-        MI: formatearHorario(materia.horario.MI),
-        JU: formatearHorario(materia.horario.JU),
-        VI: formatearHorario(materia.horario.VI),
-        SA: formatearHorario(materia.horario.SA),
-      },
-    }));
-  }
-
-  await writeFile(
-    "horarios.json",
-    JSON.stringify(resultados, null, 2),
-    "utf-8"
-  );
-  console.log("✅ Datos guardados en horarios.json");
-
-  const primerGrupo = Object.keys(resultados)[0];
-  console.log(`📋 Primer grupo (${primerGrupo}):`);
-  console.log(resultados[primerGrupo]);
-
-  await browser.close();
+  return grupos;
 };
 
-obtenerHorarios();
+const scrapearGrupos = async (idCarrera, grupos, filtro) => {
+  const listas = await procesarConLimite(grupos, CONCURRENCIA, async (grupo) => {
+    const crudas = await getJSON({ tipo: 2, sem: SEM, carr: idCarrera, grupo });
+    let clases = crudas.map(mapearClase);
+    if (filtro) clases = clases.filter(filtro);
+    return { grupo, clases };
+  });
+  const resultado = {};
+  for (const { grupo, clases } of listas) {
+    if (clases.length) resultado[grupo] = clases;
+  }
+  return resultado;
+};
+
+const main = async () => {
+  console.log("🌐 Obteniendo carreras...");
+  const carreras = (await getJSON({ tipo: 1 })).map((c) => ({
+    id: c.id_area,
+    nombre: decodificar(c.nombre).trim(),
+  }));
+
+  const principal = carreras.find((c) => c.id === CARR);
+  if (!principal) throw new Error(`No se encontró la carrera ${CARR}`);
+  console.log(`📌 Carrera principal: ${principal.nombre} (${principal.id})`);
+
+  console.log(`🔎 Scrapeando horarios de ${principal.nombre} (sem ${SEM})...`);
+  const horarios = await scrapearGrupos(principal.id, await gruposDeCarrera(principal.id));
+
+  const todas = Object.values(horarios).flat();
+  console.log(
+    `  ${Object.keys(horarios).length} grupos, ${todas.length} materias, ${new Set(todas.map((c) => c.clave)).size} claves únicas`,
+  );
+
+  await writeFile(HORARIOS_OUT, JSON.stringify(horarios, null, 2), "utf-8");
+  console.log(`✅ Escrito ${HORARIOS_OUT}`);
+
+  const nombresPorClave = new Map();
+  for (const { clave, materia } of todas) {
+    const nombres = nombresPorClave.get(clave) ?? new Set();
+    nombres.add(materia);
+    nombresPorClave.set(clave, nombres);
+  }
+
+  console.log("🌐 Scrapeando materias externas coincidentes...");
+  const externas = {};
+  for (const carrera of carreras) {
+    if (carrera.id === CARR) continue;
+    const grupos = await gruposDeCarrera(carrera.id);
+    if (!grupos.length) {
+      console.log(`  ⏭  ${carrera.nombre}: sin grupos`);
+      continue;
+    }
+    const coincidentes = await scrapearGrupos(carrera.id, grupos, (c) =>
+      nombresPorClave.get(c.clave)?.has(c.materia),
+    );
+    if (Object.keys(coincidentes).length) {
+      externas[carrera.nombre] = coincidentes;
+      console.log(
+        `  ✅ ${carrera.nombre}: ${Object.keys(coincidentes).length} grupos, ${Object.values(coincidentes).flat().length} materias coincidentes`,
+      );
+    } else {
+      console.log(`  ⏭  ${carrera.nombre}: sin coincidencias`);
+    }
+  }
+
+  await writeFile(EXTERNAS_OUT, JSON.stringify(externas, null, 2), "utf-8");
+  console.log(`✅ Escrito ${EXTERNAS_OUT}`);
+  console.log("🏁 Terminado");
+};
+
+main().catch((error) => {
+  console.error("❌ Error:", error);
+  process.exit(1);
+});
